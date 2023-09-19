@@ -18,6 +18,10 @@ function App() {
         >
           Learn React
         </a>
+        <h1 className="text-3xl font-bold text-emerald-500">
+          React Typescript Tailwind Starter<br></br>
+          <a href="https://github.com/jeffersonfed/personal-react-starter" className='hover:text-white'>Github</a>
+        </h1>
       </header>
     </div>
   );
