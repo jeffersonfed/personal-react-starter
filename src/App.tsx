@@ -18,9 +18,9 @@ function App() {
         >
           Learn React
         </a>
-        <h1 className="text-3xl font-bold text-emerald-500">
+        <h1 className="text-3xl font-bold text-emerald-200">
           React Typescript Tailwind Starter<br></br>
-          <a href="https://github.com/jeffersonfed/personal-react-starter" className='hover:text-white'>Github</a>
+          <a href="https://github.com/jeffersonfed/personal-react-starter" className='text-emerald-500 hover:text-white'>Github</a>
         </h1>
       </header>
     </div>
